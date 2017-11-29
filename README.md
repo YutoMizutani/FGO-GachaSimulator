@@ -12,6 +12,11 @@
  
  実行ファイル "Gacha" をTerminal等へドラッグ&ドロップで起動。
  
+ # フレンドよろしくお願いします！
+ 
+ 2017/10/31 に始めました。30日ボーナスがもらえました。
+ 276,399,712
+ 
  # スクリーンショット
  
  ![ss1](https://github.com/YutoMizutani/FGO-GachaSimulator/blob/master/Screen%20Shot%202017-11-29%20at%2010.42.09.png "ss1")
