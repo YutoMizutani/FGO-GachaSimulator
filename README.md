@@ -12,3 +12,7 @@
  
  実行ファイル "Gacha" をTerminal等へドラッグ&ドロップで起動。
  
+ # スクリーンショット
+ 
+ ![ss1](https://github.com/YutoMizutani/FGO-GachaSimulator/blob/master/Screen%20Shot%202017-11-29%20at%2010.42.09.png "ss1")
+ ![ss1](https://github.com/YutoMizutani/FGO-GachaSimulator/blob/master/Screen%20Shot%202017-11-29%20at%2010.42.47.png "ss1")
